@@ -1,0 +1,92 @@
+[
+    {
+        "contact": "ลูกหนี้",
+        "statusCodeId": "A01",
+        "actionCodeName": "C : ติดต่อได้",
+        "statusCodeName": "ติดต่อได้แต่ไม่นัดชำระ",
+        "accountNo": "800003305847",
+        "cif": "14085",
+        "userId": "287",
+        "collName": "Thararat"
+    },
+    {
+        "contact": "ลูกหนี้",
+        "statusCodeId": "NA",
+        "actionCodeName": "NC : ติดต่อไม่ได้",
+        "statusCodeName": "NA :ไม่รับสาย",
+        "accountNo": "800003211433",
+        "cif": "12345",
+        "userId": "287",
+        "collName": "Thararat"
+    },
+    {
+        "contact": "ลูกหนี้",
+        "statusCodeId": "A01",
+        "actionCodeName": "C : ติดต่อได้",
+        "statusCodeName": "ติดต่อได้แต่ไม่นัดชำระ",
+        "accountNo": "800002986241",
+        "cif": "546",
+        "userId": "287",
+        "collName": "Thararat"
+    },
+    {
+        "contact": "ลูกหนี้",
+        "statusCodeId": "A02",
+        "actionCodeName": "C : ติดต่อได้",
+        "statusCodeName": "อยู่ระหว่างเจรจายังไม่ได้ข้อสรุป",
+        "accountNo": "800003061705",
+        "cif": "9341",
+        "userId": "287",
+        "collName": "Thararat"
+    },
+    {
+        "contact": "ลูกหนี้",
+        "statusCodeId": "A01",
+        "actionCodeName": "C : ติดต่อได้",
+        "statusCodeName": "ติดต่อได้แต่ไม่นัดชำระ",
+        "accountNo": "800003027128",
+        "cif": "8199",
+        "userId": "287",
+        "collName": "Thararat"
+    },
+    {
+        "contact": "ลูกหนี้",
+        "statusCodeId": "A01",
+        "actionCodeName": "C : ติดต่อได้",
+        "statusCodeName": "ติดต่อได้แต่ไม่นัดชำระ",
+        "accountNo": "800003154351",
+        "cif": "11811",
+        "userId": "287",
+        "collName": "Thararat"
+    },
+    {
+        "contact": "ลูกหนี้",
+        "statusCodeId": "WN",
+        "actionCodeName": "NC : ติดต่อไม่ได้",
+        "statusCodeName": "WN :ไม่ใช่เบอร์ลูกค้า",
+        "accountNo": "800003296400",
+        "cif": "10593",
+        "userId": "287",
+        "collName": "Thararat"
+    },
+    {
+        "contact": "ลูกหนี้",
+        "statusCodeId": "NS",
+        "actionCodeName": "NC : ติดต่อไม่ได้",
+        "statusCodeName": "NS :ไม่มีสัญญาณโทรศัพท์",
+        "accountNo": "800002985557",
+        "cif": "107",
+        "userId": "287",
+        "collName": "Thararat"
+    },
+    {
+        "contact": "ลูกหนี้",
+        "statusCodeId": "NA",
+        "actionCodeName": "NC : ติดต่อไม่ได้",
+        "statusCodeName": "NA :ไม่รับสาย",
+        "accountNo": "800003344747",
+        "cif": "12109",
+        "userId": "287",
+        "collName": "Thararat"
+    }
+]
